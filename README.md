@@ -6,4 +6,4 @@ I will also be making sure it comes with solitaire and minesweeper
 Even though those are available online for free 
 Please don't sue me Bill Gates
 
-This is licensed under the [MIT License](LISENCE)
+This is licensed under the [MIT License](LICENSE)
